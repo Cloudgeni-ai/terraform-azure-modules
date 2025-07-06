@@ -69,7 +69,7 @@ Inspired by the excellent [terraform-aws-modules](https://github.com/terraform-a
 ```hcl
 # Example: Creating a Resource Group
 module "resource_group" {
-  source = "github.com/your-org/terraform-azure-modules//modules/azure-resource-group"
+  source = "github.com/Cloudgeni-ai/terraform-azure-modules//modules/azure-resource-group"
   
   name     = "my-rg"
   location = "East US"
@@ -82,7 +82,7 @@ module "resource_group" {
 
 # Example: Creating a Virtual Network
 module "virtual_network" {
-  source = "github.com/your-org/terraform-azure-modules//modules/azure-virtual-network"
+  source = "github.com/Cloudgeni-ai/terraform-azure-modules//modules/azure-virtual-network"
   
   name                = "my-vnet"
   location            = module.resource_group.location
@@ -157,9 +157,9 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 🆘 Support
 
-- 🐛 [Report Issues](https://github.com/your-org/terraform-azure-modules/issues)
-- 💬 [Discussions](https://github.com/your-org/terraform-azure-modules/discussions)
-- 📖 [Documentation](https://github.com/your-org/terraform-azure-modules/tree/main/docs)
+- 🐛 [Report Issues](https://github.com/Cloudgeni-ai/terraform-azure-modules/issues)
+- 💬 [Discussions](https://github.com/Cloudgeni-ai/terraform-azure-modules/discussions)
+- 📖 [Documentation](https://github.com/Cloudgeni-ai/terraform-azure-modules/tree/main/docs)
 
 ## 📄 License
 
@@ -167,7 +167,7 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-org/terraform-azure-modules&type=Date)](https://star-history.com/#your-org/terraform-azure-modules&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Cloudgeni-ai/terraform-azure-modules&type=Date)](https://star-history.com/#Cloudgeni-ai/terraform-azure-modules&Date)
 
 ## 🙏 Acknowledgments
 
@@ -177,4 +177,4 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ---
 
-**Made with ❤️ by the open-source community**
+**Made with ❤️ by the Cloudgeni team and open-source community**

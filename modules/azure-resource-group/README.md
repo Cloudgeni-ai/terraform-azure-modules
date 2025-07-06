@@ -16,7 +16,7 @@ This module creates an Azure Resource Group with optional management lock for se
 
 ```hcl
 module "resource_group" {
-  source = "github.com/your-org/terraform-azure-modules//modules/azure-resource-group"
+  source = "github.com/Cloudgeni-ai/terraform-azure-modules//modules/azure-resource-group"
 
   name     = "my-rg"
   location = "East US"
@@ -32,7 +32,7 @@ module "resource_group" {
 
 ```hcl
 module "resource_group" {
-  source = "github.com/your-org/terraform-azure-modules//modules/azure-resource-group"
+  source = "github.com/Cloudgeni-ai/terraform-azure-modules//modules/azure-resource-group"
 
   name     = "my-rg"
   location = "East US"

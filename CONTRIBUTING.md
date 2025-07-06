@@ -250,9 +250,9 @@ Before submitting a pull request, ensure:
 
 ## 📞 Getting Help
 
-- **Questions**: Open a [Discussion](https://github.com/your-org/terraform-azure-modules/discussions)
-- **Bugs**: Report in [Issues](https://github.com/your-org/terraform-azure-modules/issues)
-- **Feature Requests**: Open an [Issue](https://github.com/your-org/terraform-azure-modules/issues) with the enhancement label
+- **Questions**: Open a [Discussion](https://github.com/Cloudgeni-ai/terraform-azure-modules/discussions)
+- **Bugs**: Report in [Issues](https://github.com/Cloudgeni-ai/terraform-azure-modules/issues)
+- **Feature Requests**: Open an [Issue](https://github.com/Cloudgeni-ai/terraform-azure-modules/issues) with the enhancement label
 
 ## 🏆 Recognition
 

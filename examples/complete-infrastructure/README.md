@@ -43,7 +43,7 @@ This example creates:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-org/terraform-azure-modules.git
+git clone https://github.com/Cloudgeni-ai/terraform-azure-modules.git
    cd terraform-azure-modules/examples/complete-infrastructure
    ```
 
@@ -177,7 +177,7 @@ This example creates the following billable resources:
 ### Getting Help
 
 - Check the [Contributing Guide](../../CONTRIBUTING.md)
-- Open an [Issue](https://github.com/your-org/terraform-azure-modules/issues)
+- Open an [Issue](https://github.com/Cloudgeni-ai/terraform-azure-modules/issues)
 - Review individual module documentation
 
 ## Next Steps

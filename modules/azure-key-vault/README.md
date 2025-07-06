@@ -19,7 +19,7 @@ This module creates an Azure Key Vault with comprehensive security features, sec
 
 ```hcl
 module "key_vault" {
-  source = "github.com/your-org/terraform-azure-modules//modules/azure-key-vault"
+  source = "github.com/Cloudgeni-ai/terraform-azure-modules//modules/azure-key-vault"
 
   name                = "my-kv"
   location            = "East US"
@@ -36,7 +36,7 @@ module "key_vault" {
 
 ```hcl
 module "key_vault" {
-  source = "github.com/your-org/terraform-azure-modules//modules/azure-key-vault"
+  source = "github.com/Cloudgeni-ai/terraform-azure-modules//modules/azure-key-vault"
 
   name                = "my-kv"
   location            = "East US"
@@ -121,7 +121,7 @@ module "key_vault" {
 
 ```hcl
 module "key_vault" {
-  source = "github.com/your-org/terraform-azure-modules//modules/azure-key-vault"
+  source = "github.com/Cloudgeni-ai/terraform-azure-modules//modules/azure-key-vault"
 
   name                = "my-kv"
   location            = "East US"

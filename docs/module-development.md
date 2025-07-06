@@ -285,7 +285,7 @@ Brief description of what the module does.
 
 ```hcl
 module "service" {
-  source = "github.com/your-org/terraform-azure-modules//modules/azure-service-name"
+  source = "github.com/Cloudgeni-ai/terraform-azure-modules//modules/azure-service-name"
   
   name     = "example"
   location = "East US"
@@ -402,8 +402,8 @@ A: Increment major version and document migration path.
 ## 📞 Support
 
 For questions about module development:
-- Open a [Discussion](https://github.com/your-org/terraform-azure-modules/discussions)
-- Review existing [Issues](https://github.com/your-org/terraform-azure-modules/issues)
+- Open a [Discussion](https://github.com/Cloudgeni-ai/terraform-azure-modules/discussions)
+- Review existing [Issues](https://github.com/Cloudgeni-ai/terraform-azure-modules/issues)
 - Check the [Contributing Guide](../CONTRIBUTING.md)
 
 ---

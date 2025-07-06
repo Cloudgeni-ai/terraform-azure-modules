@@ -18,7 +18,7 @@ This module creates an Azure Virtual Network with subnets, optional network secu
 
 ```hcl
 module "virtual_network" {
-  source = "github.com/your-org/terraform-azure-modules//modules/azure-virtual-network"
+  source = "github.com/Cloudgeni-ai/terraform-azure-modules//modules/azure-virtual-network"
 
   name                = "my-vnet"
   location            = "East US"
@@ -47,7 +47,7 @@ module "virtual_network" {
 
 ```hcl
 module "virtual_network" {
-  source = "github.com/your-org/terraform-azure-modules//modules/azure-virtual-network"
+  source = "github.com/Cloudgeni-ai/terraform-azure-modules//modules/azure-virtual-network"
 
   name                = "my-vnet"
   location            = "East US"
